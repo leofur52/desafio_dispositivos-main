@@ -1,7 +1,7 @@
 # Desafio: Cadastro de Pessoas
 
 ## Descrição
-Este é um desafio proposto pelo professor para criar um aplicativo Android em Kotlin, utilizando XML para a interface. O app permite cadastrar um nome, um valor e um link de imagem. Na segunda tela, exibe-se uma lista dos itens cadastrados, cada um acompanhado de dois botões para interação.
+Este é um desafio proposto pelo professor para criar um aplicativo Android em Kotlin, utilizando XML para a interface. O app permite cadastrar um nome, um valor e um link de imagem. Na segunda tela, exibe-se uma lista das pessoas cadastradas, cada um acompanhado de dois botões para interação.
 
 ## Funcionalidades
 - **Cadastro de Pessoa:** O usuário pode inserir o nome e o número de telefone de uma pessoa.
